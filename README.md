@@ -1,6 +1,4 @@
-<img src="https://images.bareksa.com/bareksa/img/logo/bareksa-logo.svg" alt="Bareksa Logo" style="height: 35px;width: auto; float:right">
-
-# Panthera Project
+:green_book: # Panthera Project
 ## Requirements
 
 For development panthera project, you will only need Node.js & Git installed on your environement.
