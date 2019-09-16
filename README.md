@@ -1,4 +1,4 @@
-:green_book: # Panthera Project
+# :green_book: Panthera Project
 ## Requirements
 
 For development panthera project, you will only need Node.js & Git installed on your environement.
