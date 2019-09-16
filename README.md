@@ -3,7 +3,7 @@
 
 For development panthera project, you will only need Node.js & Git installed on your environement.
 
-* **Install Node.js :** Download the Node.js Latest LTS Version: 10.16.3 (includes npm 6.9.0) a pre-built installer for your platform
+* **Install Node.js :** Download the Node.js Latest LTS Version: 10.16.3 (includes npm 6.9.0) a pre-built installer.
 * **Install Git :** To start working locally on an existing remote repository, clone panthera projcet from Gitlab.
 
 ### Node installation on Windows
