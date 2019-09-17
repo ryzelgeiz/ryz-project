@@ -10,7 +10,7 @@ For development panthera project, you will only need Node.js & Git installed on 
 ## Clone a repository
 Clone this repo using terminal on cmd
 
-    $ git clone git@gitlab.bareksa.com:frontend/panthera.git
+    $ git clone
     $ cd PROJECT
 
 ## Change a repository
