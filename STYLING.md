@@ -24,7 +24,7 @@ There are a few variations of the methodology, but the most common approach is t
 ```
 .block {}
 .block__element {}
-.block__element_modifier {}
+.block__element-modifier {}
 ```
 
 ### Block
