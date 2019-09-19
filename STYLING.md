@@ -49,18 +49,12 @@ Examples :
 
 
 ## Key benefits of BEM
-* **Reduces risk :** BEM provides isolated components that support modular design. Using BEM you can develop each a component in isolation with no risk of missing styles or instigating unintended consequences.
-<br/>
+* **Reduces risk :** BEM provides isolated components that support modular design. Using BEM you can develop each a component in isolation with no risk of missing styles or instigating unintended consequences.<br/>
 You also get the ability to transfer blocks from your finished projects to new ones.
-
-* **Helps teams collaborate :** BEM provides you with robust CSS conventions that enables everyone to work to the same standards making it better for collaboration, especially when different teams are working on their own blocks.
-<br/>
+* **Helps teams collaborate :** BEM provides you with robust CSS conventions that enables everyone to work to the same standards making it better for collaboration, especially when different teams are working on their own blocks.<br/>
 With a set of style guidelines in place, you can build a library of blocks, making your CSS super effective.
-
-* **Easier to maintain :** BEM allows for phased migration as blocks or templates are updated. Future updates can be done safely, as you know new styles will only target blocks using specified styles.
-<br/>
+* **Easier to maintain :** BEM allows for phased migration as blocks or templates are updated. Future updates can be done safely, as you know new styles will only target blocks using specified styles.<br/>
 Because BEM methodology gives your CSS code a solid structure that remains simple and easy to understand.
-
 * **Reusability :** Composing independent blocks in different ways, and reusing them intelligently, reduces the amount of CSS code that you will have to maintain.
 With a set of style guidelines in place, you can build a library of blocks, making your CSS super effective.
 
