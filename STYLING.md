@@ -26,24 +26,10 @@ There are a few variations of the methodology, but the most common approach is t
 .block__element {}
 .block__element-modifier {}
 ```
-
-### Block
-> Standalone entity that is meaningful on its own or represents an object on your website.
-
-Examples :
-`header`, `container`, `menu`, `checkbox`, `input`
-
-### Element
-> A part of a block that has no standalone meaning and is semantically tied to its block or a component within the block that performs a particular function.
-
-Examples :
-`menu item`, `list item`, `checkbox caption`, `header title`
-
-### Modifier
-> Any variations of a block or element. Use them to change appearance or behavior.
-
-Examples :
-`disabled`, `highlighted`, `checked`, `fixed`, `size big`, `color yellow`
+Block | Elements | Modifier
+----- | -------- | --------
+Standalone entity that is meaningful on its own or represents an object on your website. | A part of a block that has no standalone meaning and is semantically tied to its block or a component within the block that performs a particular function. | Any variations of a block or element. Use them to change appearance or behavior.
+Examples : `header`, `container`, `menu`, `checkbox`, `input` | Examples : `menu item`, `list item`, `checkbox caption`, `header title` | Examples : `disabled`, `highlighted`, `checked`, `fixed`, `size big`, `color yellow`
 
 ![BEM](http://getbem.com/assets/github_captions.jpg)
 
